@@ -1,0 +1,15 @@
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.exe
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.deps.json
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.runtimeconfig.json
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.dll
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\bin\Debug\net6.0\InsertionSort.pdb
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.AssemblyReference.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfoInputs.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfo.cs
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.CoreCompileInputs.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.dll
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\obj\Debug\net6.0\refint\InsertionSort.dll
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.pdb
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\obj\Debug\net6.0\InsertionSort.genruntimeconfig.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Insertion\InsertionSort\InsertionSort\obj\Debug\net6.0\ref\InsertionSort.dll

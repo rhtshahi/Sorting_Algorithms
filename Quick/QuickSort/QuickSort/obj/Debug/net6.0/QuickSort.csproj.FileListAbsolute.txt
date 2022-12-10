@@ -1,0 +1,15 @@
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.exe
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.deps.json
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.runtimeconfig.json
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.dll
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\bin\Debug\net6.0\QuickSort.pdb
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.csproj.AssemblyReference.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfoInputs.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.AssemblyInfo.cs
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.csproj.CoreCompileInputs.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.dll
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\obj\Debug\net6.0\refint\QuickSort.dll
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.pdb
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\obj\Debug\net6.0\QuickSort.genruntimeconfig.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Quick\QuickSort\QuickSort\obj\Debug\net6.0\ref\QuickSort.dll

@@ -1,0 +1,15 @@
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.exe
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.deps.json
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.runtimeconfig.json
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.dll
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.pdb
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.AssemblyReference.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfoInputs.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfo.cs
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.CoreCompileInputs.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.dll
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\obj\Debug\net6.0\refint\SelectionSort.dll
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.pdb
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.genruntimeconfig.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Selection\SelectionSort\SelectionSort\obj\Debug\net6.0\ref\SelectionSort.dll

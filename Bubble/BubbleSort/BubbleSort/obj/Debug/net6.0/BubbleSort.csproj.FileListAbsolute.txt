@@ -1,0 +1,15 @@
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
+D:\L5\OBJECT ORIENTED PROGRAMMING AND SOFTWARE ENGINEERING\Sorting\Bubble\BubbleSort\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
